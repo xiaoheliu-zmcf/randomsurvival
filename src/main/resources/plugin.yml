@@ -1,0 +1,9 @@
+name: RandomSurvival
+version: '1.0'
+main: xiaoheliou.random.XhRandomPlugin
+api-version: '1.21'
+author: xiaoheliou
+commands:
+  xh:
+    description: 随机
+    usage: /xh
